@@ -19,7 +19,7 @@ A backend API for financial data analysis and AI-powered insights.
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/finance-ai-api.git
+git clone https://github.com/Pappyjay157/finance-ai-api.git
 cd finance-ai-api
 npm install
 ```
